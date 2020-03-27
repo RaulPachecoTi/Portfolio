@@ -1,0 +1,31 @@
+{
+    "Evento": [
+        {
+        "name": "Evento sin Nombre",
+        "address": "/",
+        "Agenda": {
+            "name": "Agenda",
+            "address": "/agenda"
+        },
+        "Invitados": {
+            "name": "Invitados",
+            "address": "#invitados",
+            "drops": ["Gamer", "Maker"]
+        },
+        "Sponsors":{
+                "name": "Sponsors",
+                "address": "#sponsors",
+                "drops": ["Oro", "Plata", "Bronce", "Unete"]
+            },
+            "Aliados":{
+                "name": "Aliados",
+                "address": "#aliados",
+                "drops": ["Institucionales", "Estrategicos", "Comunidades", "Universidades", "Unete"]
+            },
+            "Competencias":{
+                "name": "Competencias",
+                "address": "/competencias"
+            }    
+        }
+]
+}
